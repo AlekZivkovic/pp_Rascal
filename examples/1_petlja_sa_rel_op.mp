@@ -1,0 +1,13 @@
+main(){
+a:int ;
+a:int;
+a= 1;
+read(a);
+{
+a:int;
+a=2;
+repeat a=3; until 1<3;
+}
+}
+
+

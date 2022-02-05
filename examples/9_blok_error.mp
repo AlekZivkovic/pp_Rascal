@@ -1,0 +1,10 @@
+main(){
+a:int ;
+b:bool;
+b=false;
+repeat until b;
+}
+}
+
+
+
