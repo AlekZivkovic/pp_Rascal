@@ -45,7 +45,7 @@ However, if the sign $ is specified, it is base 16, and if it is not specified, 
 
 3. Char constants
 
-‘<sign>’
+‘char_array’
 
  
 4. Bool constants
